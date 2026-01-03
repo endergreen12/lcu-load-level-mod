@@ -35,7 +35,7 @@ In any case, it’s fine as long as those files are not located in the LCU folde
 #### Install "Load_Level" cutscene
 Firstly, download CUT folder from this repository, and merge it into the LCU folder
 
-Next, Copy `CUT\LOADING_SCREEN\LOADINGSCREEN_01_CHERRY\LOADINGSCREEN_01_CHERRY_NXG.CU3` to `CUT\LOAD_LEVEL\`, and then rename it to `LOAD_LEVEL_NXG.CU3`
+Next, copy `CUT\LOADING_SCREEN\LOADINGSCREEN_01_CHERRY\LOADINGSCREEN_01_CHERRY_NXG.CU3` to `CUT\LOAD_LEVEL\`, and then rename it to `LOAD_LEVEL_NXG.CU3`
 
 Then, open `CUT\CUTSCENES_MAIN.TXT`, and add those lines:
 ```
