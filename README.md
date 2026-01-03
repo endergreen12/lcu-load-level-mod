@@ -49,7 +49,7 @@ like this:
 
 <img width="443" height="429" alt="image" src="https://github.com/user-attachments/assets/94183573-cf04-4cf8-aa40-e4139ddca547" />
 
-#### Edit Codes
+#### Edit codes
 Open `JOBS\SCRIPTS\CITY_SETUP\LEVEL_TRANSITIONS\HUB.SF`, go to line 202 and locate `Function FN_LCPD()`
 
 Set `tCutscene` to `Load_Level`, comment out `goto ShowSummaryScreen();` and add `PlayCutscene(cutscene= tCutscene);`
