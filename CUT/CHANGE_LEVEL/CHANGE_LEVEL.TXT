@@ -1,0 +1,7 @@
+cutscene_start
+
+	dir "Change_Level"
+	file "Change_Level"
+	level "GameMechanicsTestArea"
+
+cutscene_end
