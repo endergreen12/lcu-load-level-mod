@@ -1,0 +1,7 @@
+cutscene_start
+
+	dir "Load_Level"
+	file "Load_Level"
+	level "GameMechanicsTestArea"
+
+cutscene_end
