@@ -66,3 +66,8 @@ You can specify which level to load with the level property in `CUT\LOAD_LEVEL\L
 <img width="371" height="218" alt="image" src="https://github.com/user-attachments/assets/6c808a59-a096-401f-b1ae-f5e56abb67ea" />
 
 Approaching the entrance of the police station loads the specified level
+
+## Notes
+The game refuses to load levels which has test_level property, so remove it if you want to load the level
+
+<img width="355" height="96" alt="image" src="https://github.com/user-attachments/assets/8b9783cf-3bdc-4067-8f86-0c6399e0d851" />
