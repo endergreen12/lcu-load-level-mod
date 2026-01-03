@@ -27,7 +27,7 @@ Open terminal at the folder, and run this command:
 ```
 
 Wait until it's done
-#### Move or delete original files to somewhere
+#### Move or delete original files
 Move or delete All .DAT files and `__DISC__` file in order to make the game use extracted files
 
 In any case, it’s fine as long as those files are not located in the LCU folder
