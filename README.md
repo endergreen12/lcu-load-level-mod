@@ -1,4 +1,6 @@
 # LCU-Load-Level-Mod
+## This repo is archived
+I made this mod because I thought it wasn’t possible to load a level from a script, but after making it, I realized that it can be loaded using a function called ForceLoad()
 ## What does this mod do
 As the name suggests, this mod will enable you to load any levels
 
